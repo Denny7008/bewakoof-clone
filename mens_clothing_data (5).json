@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "title": "White Slim Fit Jeans",
+    "category": "jeans",
+    "color": "light blue",
+    "price": 1379,
+    "image": "https://offduty.in/cdn/shop/products/ff2def08-93ae-4984-89e8-8352dea110da_540x.jpg?v=1676893036"
+  },
+  {
+    "id": 2,
+    "title": "Green Slim Fit Jeans",
+    "category": "jeans",
+    "color": "Green",
+    "price": 1823,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-denim-slim-fit-jeans-582337-1706167972-1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Grey Slim Fit Jeans",
+    "category": "jeans",
+    "color": "Grey",
+    "price": 1013,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-denim-slim-fit-jeans-582337-1706167972-1.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Red Regular Fit Jeans",
+    "category": "jeans",
+    "color": "Red",
+    "price": 526,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-denim-slim-fit-jeans-582337-1706167972-1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Brown Regular Fit Jeans",
+    "category": "jeans",
+    "color": "Brown",
+    "price": 1028,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-denim-slim-fit-jeans-582337-1706167972-1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Grey Regular Fit Jeans",
+    "category": "jeans",
+    "color": "Grey",
+    "price": 1005,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-denim-slim-fit-jeans-582337-1706167972-1.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Beige Distressed Jeans",
+    "category": "jeans",
+    "color": "Beige",
+    "price": 803,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-denim-slim-fit-jeans-582337-1706167972-1.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Brown Distressed Jeans",
+    "category": "jeans",
+    "color": "Brown",
+    "price": 690,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-denim-slim-fit-jeans-582337-1706167972-1.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Red Distressed Jeans",
+    "category": "jeans",
+    "color": "Red",
+    "price": 1908,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-denim-slim-fit-jeans-582337-1706167972-1.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Red Tapered Jeans",
+    "category": "jeans",
+    "color": "Red",
+    "price": 574,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-denim-slim-fit-jeans-582337-1706167972-1.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Blue Tapered Jeans",
+    "category": "jeans",
+    "color": "Blue",
+    "price": 1612,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-denim-slim-fit-jeans-582337-1706167972-1.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Grey Tapered Jeans",
+    "category": "jeans",
+    "color": "Grey",
+    "price": 1856,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-denim-slim-fit-jeans-582337-1706167972-1.jpg"
+  },
+  {
+    "id": 13,
+    "title": "White Check Shirt",
+    "category": "shirts",
+    "color": "White",
+    "price": 1597,
+    "image": "https://images.bewakoof.com/t640/men-s-red-checkered-shirt-581568-1707388123-1.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Black Check Shirt",
+    "category": "shirts",
+    "color": "Black",
+    "price": 1094,
+    "image": "https://images.bewakoof.com/t640/men-s-red-checkered-shirt-581568-1707388123-1.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Grey Check Shirt",
+    "category": "shirts",
+    "color": "Grey",
+    "price": 1259,
+    "image": "https://images.bewakoof.com/t640/men-s-red-checkered-shirt-581568-1707388123-1.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Brown Plain Shirt",
+    "category": "shirts",
+    "color": "Brown",
+    "price": 1078,
+    "image": "https://images.bewakoof.com/t640/men-s-red-checkered-shirt-581568-1707388123-1.jpg"
+  },
+  {
+    "id": 17,
+    "title": "White Plain Shirt",
+    "category": "shirts",
+    "color": "White",
+    "price": 1389,
+    "image": "https://images.bewakoof.com/t640/men-s-red-checkered-shirt-581568-1707388123-1.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Beige Plain Shirt",
+    "category": "shirts",
+    "color": "Beige",
+    "price": 1326,
+    "image": "https://images.bewakoof.com/t640/men-s-red-checkered-shirt-581568-1707388123-1.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Brown Printed Shirt",
+    "category": "shirts",
+    "color": "Brown",
+    "price": 1942,
+    "image": "https://images.bewakoof.com/t640/men-s-red-checkered-shirt-581568-1707388123-1.jpg"
+  },
+  {
+    "id": 20,
+    "title": "White Printed Shirt",
+    "category": "shirts",
+    "color": "White",
+    "price": 1361,
+    "image": "https://images.bewakoof.com/t640/men-s-red-checkered-shirt-581568-1707388123-1.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Black Printed Shirt",
+    "category": "shirts",
+    "color": "Black",
+    "price": 1948,
+    "image": "https://images.bewakoof.com/t640/men-s-red-checkered-shirt-581568-1707388123-1.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Red Linen Shirt",
+    "category": "shirts",
+    "color": "Red",
+    "price": 582,
+    "image": "https://images.bewakoof.com/t640/men-s-red-checkered-shirt-581568-1707388123-1.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Blue Linen Shirt",
+    "category": "shirts",
+    "color": "Blue",
+    "price": 1675,
+    "image": "https://images.bewakoof.com/t640/men-s-red-checkered-shirt-581568-1707388123-1.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Brown Linen Shirt",
+    "category": "shirts",
+    "color": "Brown",
+    "price": 1040,
+    "image": "https://images.bewakoof.com/t640/men-s-red-checkered-shirt-581568-1707388123-1.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Beige Graphic T-Shirt",
+    "category": "tshirts",
+    "color": "Beige",
+    "price": 1303,
+    "image": "https://images.bewakoof.com/t640/men-s-white-graphic-printed-t-shirt-581074-1707387993-1.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Grey Graphic T-Shirt",
+    "category": "tshirts",
+    "color": "Grey",
+    "price": 1871,
+    "image": "https://images.bewakoof.com/t640/men-s-white-graphic-printed-t-shirt-581074-1707387993-1.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Green Graphic T-Shirt",
+    "category": "tshirts",
+    "color": "Green",
+    "price": 1818,
+    "image": "https://images.bewakoof.com/t640/men-s-white-graphic-printed-t-shirt-581074-1707387993-1.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Brown Plain T-Shirt",
+    "category": "tshirts",
+    "color": "Brown",
+    "price": 688,
+    "image": "https://images.bewakoof.com/t640/men-s-white-graphic-printed-t-shirt-581074-1707387993-1.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Red Plain T-Shirt",
+    "category": "tshirts",
+    "color": "Red",
+    "price": 1281,
+    "image": "https://images.bewakoof.com/t640/men-s-white-graphic-printed-t-shirt-581074-1707387993-1.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Black Plain T-Shirt",
+    "category": "tshirts",
+    "color": "Black",
+    "price": 1028,
+    "image": "https://images.bewakoof.com/t640/men-s-white-graphic-printed-t-shirt-581074-1707387993-1.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Blue Oversized T-Shirt",
+    "category": "tshirts",
+    "color": "Blue",
+    "price": 1287,
+    "image": "https://images.bewakoof.com/t640/men-s-white-graphic-printed-t-shirt-581074-1707387993-1.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Black Oversized T-Shirt",
+    "category": "tshirts",
+    "color": "Black",
+    "price": 1326,
+    "image": "https://images.bewakoof.com/t640/men-s-white-graphic-printed-t-shirt-581074-1707387993-1.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Beige Oversized T-Shirt",
+    "category": "tshirts",
+    "color": "Beige",
+    "price": 1731,
+    "image": "https://images.bewakoof.com/t640/men-s-white-graphic-printed-t-shirt-581074-1707387993-1.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Black V-Neck T-Shirt",
+    "category": "tshirts",
+    "color": "Black",
+    "price": 1215,
+    "image": "https://images.bewakoof.com/t640/men-s-white-graphic-printed-t-shirt-581074-1707387993-1.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Blue V-Neck T-Shirt",
+    "category": "tshirts",
+    "color": "Blue",
+    "price": 1324,
+    "image": "https://images.bewakoof.com/t640/men-s-white-graphic-printed-t-shirt-581074-1707387993-1.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Beige V-Neck T-Shirt",
+    "category": "tshirts",
+    "color": "Beige",
+    "price": 1143,
+    "image": "https://images.bewakoof.com/t640/men-s-white-graphic-printed-t-shirt-581074-1707387993-1.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Blue Slim Fit Formal Shirt",
+    "category": "formal shirts",
+    "color": "Blue",
+    "price": 1360,
+    "image": "https://images.bewakoof.com/t640/men-s-navy-blue-slim-fit-formal-shirt-511890-1685537610-1.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Brown Slim Fit Formal Shirt",
+    "category": "formal shirts",
+    "color": "Brown",
+    "price": 817,
+    "image": "https://images.bewakoof.com/t640/men-s-navy-blue-slim-fit-formal-shirt-511890-1685537610-1.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Beige Slim Fit Formal Shirt",
+    "category": "formal shirts",
+    "color": "Beige",
+    "price": 1157,
+    "image": "https://images.bewakoof.com/t640/men-s-navy-blue-slim-fit-formal-shirt-511890-1685537610-1.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Red Regular Fit Formal Shirt",
+    "category": "formal shirts",
+    "color": "Red",
+    "price": 1468,
+    "image": "https://images.bewakoof.com/t640/men-s-navy-blue-slim-fit-formal-shirt-511890-1685537610-1.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Black Regular Fit Formal Shirt",
+    "category": "formal shirts",
+    "color": "Black",
+    "price": 1673,
+    "image": "https://images.bewakoof.com/t640/men-s-navy-blue-slim-fit-formal-shirt-511890-1685537610-1.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Beige Regular Fit Formal Shirt",
+    "category": "formal shirts",
+    "color": "Beige",
+    "price": 840,
+    "image": "https://images.bewakoof.com/t640/men-s-navy-blue-slim-fit-formal-shirt-511890-1685537610-1.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Red Striped Formal Shirt",
+    "category": "formal shirts",
+    "color": "Red",
+    "price": 551,
+    "image": "https://images.bewakoof.com/t640/men-s-navy-blue-slim-fit-formal-shirt-511890-1685537610-1.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Brown Striped Formal Shirt",
+    "category": "formal shirts",
+    "color": "Brown",
+    "price": 986,
+    "image": "https://images.bewakoof.com/t640/men-s-navy-blue-slim-fit-formal-shirt-511890-1685537610-1.jpg"
+  },
+  {
+    "id": 45,
+    "title": "White Striped Formal Shirt",
+    "category": "formal shirts",
+    "color": "White",
+    "price": 1683,
+    "image": "https://images.bewakoof.com/t640/men-s-navy-blue-slim-fit-formal-shirt-511890-1685537610-1.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Grey Cotton Joggers",
+    "category": "joggers",
+    "color": "Grey",
+    "price": 901,
+    "image": "https://images.bewakoof.com/t640/men-s-black-cotton-joggers-581146-1707388011-1.jpg"
+  },
+  {
+    "id": 47,
+    "title": "Blue Cotton Joggers",
+    "category": "joggers",
+    "color": "Blue",
+    "price": 1763,
+    "image": "https://images.bewakoof.com/t640/men-s-black-cotton-joggers-581146-1707388011-1.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Black Cotton Joggers",
+    "category": "joggers",
+    "color": "Black",
+    "price": 1283,
+    "image": "https://images.bewakoof.com/t640/men-s-black-cotton-joggers-581146-1707388011-1.jpg"
+  },
+  {
+    "id": 49,
+    "title": "Grey Track Joggers",
+    "category": "joggers",
+    "color": "Grey",
+    "price": 1507,
+    "image": "https://images.bewakoof.com/t640/men-s-black-cotton-joggers-581146-1707388011-1.jpg"
+  },
+  {
+    "id": 50,
+    "title": "Brown Track Joggers",
+    "category": "joggers",
+    "color": "Brown",
+    "price": 1148,
+    "image": "https://images.bewakoof.com/t640/men-s-black-cotton-joggers-581146-1707388011-1.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Red Track Joggers",
+    "category": "joggers",
+    "color": "Red",
+    "price": 1236,
+    "image": "https://images.bewakoof.com/t640/men-s-black-cotton-joggers-581146-1707388011-1.jpg"
+  },
+  {
+    "id": 52,
+    "title": "Red Slim Fit Joggers",
+    "category": "joggers",
+    "color": "Red",
+    "price": 572,
+    "image": "https://images.bewakoof.com/t640/men-s-black-cotton-joggers-581146-1707388011-1.jpg"
+  },
+  {
+    "id": 53,
+    "title": "Black Slim Fit Joggers",
+    "category": "joggers",
+    "color": "Black",
+    "price": 1796,
+    "image": "https://images.bewakoof.com/t640/men-s-black-cotton-joggers-581146-1707388011-1.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Grey Slim Fit Joggers",
+    "category": "joggers",
+    "color": "Grey",
+    "price": 1385,
+    "image": "https://images.bewakoof.com/t640/men-s-black-cotton-joggers-581146-1707388011-1.jpg"
+  },
+  {
+    "id": 55,
+    "title": "Beige Cargo Shorts",
+    "category": "shorts",
+    "color": "Beige",
+    "price": 1056,
+    "image": "https://images.bewakoof.com/t640/men-s-grey-cargo-shorts-570720-1704466562-1.jpg"
+  },
+  {
+    "id": 56,
+    "title": "Black Cargo Shorts",
+    "category": "shorts",
+    "color": "Black",
+    "price": 732,
+    "image": "https://images.bewakoof.com/t640/men-s-grey-cargo-shorts-570720-1704466562-1.jpg"
+  },
+  {
+    "id": 57,
+    "title": "Brown Cargo Shorts",
+    "category": "shorts",
+    "color": "Brown",
+    "price": 1843,
+    "image": "https://images.bewakoof.com/t640/men-s-grey-cargo-shorts-570720-1704466562-1.jpg"
+  },
+  {
+    "id": 58,
+    "title": "Red Denim Shorts",
+    "category": "shorts",
+    "color": "Red",
+    "price": 928,
+    "image": "https://images.bewakoof.com/t640/men-s-grey-cargo-shorts-570720-1704466562-1.jpg"
+  },
+  {
+    "id": 59,
+    "title": "Grey Denim Shorts",
+    "category": "shorts",
+    "color": "Grey",
+    "price": 1501,
+    "image": "https://images.bewakoof.com/t640/men-s-grey-cargo-shorts-570720-1704466562-1.jpg"
+  },
+  {
+    "id": 60,
+    "title": "Green Denim Shorts",
+    "category": "shorts",
+    "color": "Green",
+    "price": 1144,
+    "image": "https://images.bewakoof.com/t640/men-s-grey-cargo-shorts-570720-1704466562-1.jpg"
+  },
+  {
+    "id": 61,
+    "title": "Beige Chino Shorts",
+    "category": "shorts",
+    "color": "Beige",
+    "price": 1688,
+    "image": "https://images.bewakoof.com/t640/men-s-grey-cargo-shorts-570720-1704466562-1.jpg"
+  },
+  {
+    "id": 62,
+    "title": "Blue Chino Shorts",
+    "category": "shorts",
+    "color": "Blue",
+    "price": 1858,
+    "image": "https://images.bewakoof.com/t640/men-s-grey-cargo-shorts-570720-1704466562-1.jpg"
+  },
+  {
+    "id": 63,
+    "title": "Brown Chino Shorts",
+    "category": "shorts",
+    "color": "Brown",
+    "price": 1547,
+    "image": "https://images.bewakoof.com/t640/men-s-grey-cargo-shorts-570720-1704466562-1.jpg"
+  },
+  {
+    "id": 64,
+    "title": "Grey Bomber Jacket",
+    "category": "jackets",
+    "color": "Grey",
+    "price": 1145,
+    "image": "https://images.bewakoof.com/t640/men-s-black-solid-bomber-jacket-581625-1707388102-1.jpg"
+  },
+  {
+    "id": 65,
+    "title": "Beige Bomber Jacket",
+    "category": "jackets",
+    "color": "Beige",
+    "price": 1668,
+    "image": "https://images.bewakoof.com/t640/men-s-black-solid-bomber-jacket-581625-1707388102-1.jpg"
+  },
+  {
+    "id": 66,
+    "title": "Red Bomber Jacket",
+    "category": "jackets",
+    "color": "Red",
+    "price": 1450,
+    "image": "https://images.bewakoof.com/t640/men-s-black-solid-bomber-jacket-581625-1707388102-1.jpg"
+  },
+  {
+    "id": 67,
+    "title": "Green Denim Jacket",
+    "category": "jackets",
+    "color": "Green",
+    "price": 1242,
+    "image": "https://images.bewakoof.com/t640/men-s-black-solid-bomber-jacket-581625-1707388102-1.jpg"
+  },
+  {
+    "id": 68,
+    "title": "Brown Denim Jacket",
+    "category": "jackets",
+    "color": "Brown",
+    "price": 1978,
+    "image": "https://images.bewakoof.com/t640/men-s-black-solid-bomber-jacket-581625-1707388102-1.jpg"
+  },
+  {
+    "id": 69,
+    "title": "Grey Denim Jacket",
+    "category": "jackets",
+    "color": "Grey",
+    "price": 1417,
+    "image": "https://images.bewakoof.com/t640/men-s-black-solid-bomber-jacket-581625-1707388102-1.jpg"
+  },
+  {
+    "id": 70,
+    "title": "Red Leather Jacket",
+    "category": "jackets",
+    "color": "Red",
+    "price": 707,
+    "image": "https://images.bewakoof.com/t640/men-s-black-solid-bomber-jacket-581625-1707388102-1.jpg"
+  },
+  {
+    "id": 71,
+    "title": "Grey Leather Jacket",
+    "category": "jackets",
+    "color": "Grey",
+    "price": 1332,
+    "image": "https://images.bewakoof.com/t640/men-s-black-solid-bomber-jacket-581625-1707388102-1.jpg"
+  },
+  {
+    "id": 72,
+    "title": "Brown Leather Jacket",
+    "category": "jackets",
+    "color": "Brown",
+    "price": 1837,
+    "image": "https://images.bewakoof.com/t640/men-s-black-solid-bomber-jacket-581625-1707388102-1.jpg"
+  },
+  {
+    "id": 73,
+    "title": "White Windcheater",
+    "category": "jackets",
+    "color": "White",
+    "price": 562,
+    "image": "https://images.bewakoof.com/t640/men-s-black-solid-bomber-jacket-581625-1707388102-1.jpg"
+  },
+  {
+    "id": 74,
+    "title": "Black Windcheater",
+    "category": "jackets",
+    "color": "Black",
+    "price": 1582,
+    "image": "https://images.bewakoof.com/t640/men-s-black-solid-bomber-jacket-581625-1707388102-1.jpg"
+  },
+  {
+    "id": 75,
+    "title": "Green Windcheater",
+    "category": "jackets",
+    "color": "Green",
+    "price": 731,
+    "image": "https://images.bewakoof.com/t640/men-s-black-solid-bomber-jacket-581625-1707388102-1.jpg"
+  },
+  {
+    "id": 76,
+    "title": "Blue Sneakers",
+    "category": "shoes",
+    "color": "Blue",
+    "price": 1407,
+    "image": "https://images.bewakoof.com/t640/white-sneakers-for-men-584072-1709022080-1.jpg"
+  },
+  {
+    "id": 77,
+    "title": "White Sneakers",
+    "category": "shoes",
+    "color": "White",
+    "price": 1303,
+    "image": "https://images.bewakoof.com/t640/white-sneakers-for-men-584072-1709022080-1.jpg"
+  },
+  {
+    "id": 78,
+    "title": "Red Sneakers",
+    "category": "shoes",
+    "color": "Red",
+    "price": 1434,
+    "image": "https://images.bewakoof.com/t640/white-sneakers-for-men-584072-1709022080-1.jpg"
+  },
+  {
+    "id": 79,
+    "title": "Beige Loafers",
+    "category": "shoes",
+    "color": "Beige",
+    "price": 1386,
+    "image": "https://images.bewakoof.com/t640/white-sneakers-for-men-584072-1709022080-1.jpg"
+  },
+  {
+    "id": 80,
+    "title": "Blue Loafers",
+    "category": "shoes",
+    "color": "Blue",
+    "price": 693,
+    "image": "https://images.bewakoof.com/t640/white-sneakers-for-men-584072-1709022080-1.jpg"
+  },
+  {
+    "id": 81,
+    "title": "Grey Loafers",
+    "category": "shoes",
+    "color": "Grey",
+    "price": 1322,
+    "image": "https://images.bewakoof.com/t640/white-sneakers-for-men-584072-1709022080-1.jpg"
+  },
+  {
+    "id": 82,
+    "title": "Grey Running Shoes",
+    "category": "shoes",
+    "color": "Grey",
+    "price": 1333,
+    "image": "https://images.bewakoof.com/t640/white-sneakers-for-men-584072-1709022080-1.jpg"
+  },
+  {
+    "id": 83,
+    "title": "White Running Shoes",
+    "category": "shoes",
+    "color": "White",
+    "price": 1497,
+    "image": "https://images.bewakoof.com/t640/white-sneakers-for-men-584072-1709022080-1.jpg"
+  },
+  {
+    "id": 84,
+    "title": "Black Running Shoes",
+    "category": "shoes",
+    "color": "Black",
+    "price": 574,
+    "image": "https://images.bewakoof.com/t640/white-sneakers-for-men-584072-1709022080-1.jpg"
+  },
+  {
+    "id": 85,
+    "title": "White Formal Shoes",
+    "category": "shoes",
+    "color": "White",
+    "price": 1125,
+    "image": "https://images.bewakoof.com/t640/white-sneakers-for-men-584072-1709022080-1.jpg"
+  },
+  {
+    "id": 86,
+    "title": "Green Formal Shoes",
+    "category": "shoes",
+    "color": "Green",
+    "price": 1157,
+    "image": "https://images.bewakoof.com/t640/white-sneakers-for-men-584072-1709022080-1.jpg"
+  },
+  {
+    "id": 87,
+    "title": "Brown Formal Shoes",
+    "category": "shoes",
+    "color": "Brown",
+    "price": 1957,
+    "image": "https://images.bewakoof.com/t640/white-sneakers-for-men-584072-1709022080-1.jpg"
+  },
+  {
+    "id": 88,
+    "title": "White Short Kurta",
+    "category": "kurtas",
+    "color": "White",
+    "price": 1894,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-kurta-501882-1681389587-1.jpg"
+  },
+  {
+    "id": 89,
+    "title": "Red Short Kurta",
+    "category": "kurtas",
+    "color": "Red",
+    "price": 1336,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-kurta-501882-1681389587-1.jpg"
+  },
+  {
+    "id": 90,
+    "title": "Beige Short Kurta",
+    "category": "kurtas",
+    "color": "Beige",
+    "price": 1179,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-kurta-501882-1681389587-1.jpg"
+  },
+  {
+    "id": 91,
+    "title": "White Long Kurta",
+    "category": "kurtas",
+    "color": "White",
+    "price": 747,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-kurta-501882-1681389587-1.jpg"
+  },
+  {
+    "id": 92,
+    "title": "Brown Long Kurta",
+    "category": "kurtas",
+    "color": "Brown",
+    "price": 1821,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-kurta-501882-1681389587-1.jpg"
+  },
+  {
+    "id": 93,
+    "title": "Blue Long Kurta",
+    "category": "kurtas",
+    "color": "Blue",
+    "price": 799,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-kurta-501882-1681389587-1.jpg"
+  },
+  {
+    "id": 94,
+    "title": "Beige Printed Kurta",
+    "category": "kurtas",
+    "color": "Beige",
+    "price": 941,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-kurta-501882-1681389587-1.jpg"
+  },
+  {
+    "id": 95,
+    "title": "Red Printed Kurta",
+    "category": "kurtas",
+    "color": "Red",
+    "price": 1568,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-kurta-501882-1681389587-1.jpg"
+  },
+  {
+    "id": 96,
+    "title": "Green Printed Kurta",
+    "category": "kurtas",
+    "color": "Green",
+    "price": 916,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-kurta-501882-1681389587-1.jpg"
+  },
+  {
+    "id": 97,
+    "title": "Red Solid Kurta",
+    "category": "kurtas",
+    "color": "Red",
+    "price": 1132,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-kurta-501882-1681389587-1.jpg"
+  },
+  {
+    "id": 98,
+    "title": "Blue Solid Kurta",
+    "category": "kurtas",
+    "color": "Blue",
+    "price": 1045,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-kurta-501882-1681389587-1.jpg"
+  },
+  {
+    "id": 99,
+    "title": "Beige Solid Kurta",
+    "category": "kurtas",
+    "color": "Beige",
+    "price": 1792,
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-kurta-501882-1681389587-1.jpg"
+  }
+]

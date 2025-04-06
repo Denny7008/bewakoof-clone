@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "name": "Green Slim Fit Jeans",
+    "category": "jeans",
+    "color": "Green",
+    "price": 2451.7,
+    "image": "https://www.vudu.co.in/cdn/shop/files/EarthyGreenDenim-VUDU1.jpg?v=1735887842&width=1080"
+  },
+  {
+    "id": 2,
+    "name": "Red Slim Fit Jeans",
+    "category": "jeans",
+    "color": "Red",
+    "price": 2313.57,
+    "image": "https://www.vudu.co.in/cdn/shop/files/BrickRedDenim-VUDU5.jpg?v=1735887858&width=1080"
+  },
+  {
+    "id": 3,
+    "name": "Red Slim Fit Jeans",
+    "category": "jeans",
+    "color": "Red",
+    "price": 2129.92,
+    "image": "https://www.vudu.co.in/cdn/shop/files/BrickRedDenim-VUDU5.jpg?v=1735887858&width=1080"
+  },
+  {
+    "id": 4,
+    "name": "Blue Regular Fit Jeans",
+    "category": "jeans",
+    "color": "Blue",
+    "price": 2241.99,
+    "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/20914488/2022/12/3/6477718b-c8da-4dab-ad9d-42074feee0c81670061951381-The-Indian-Garage-Co-Men-Jeans-2651670061950630-1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Blue Regular Fit Jeans",
+    "category": "jeans",
+    "color": "Blue",
+    "price": 1013.09,
+    "image": "https://5.imimg.com/data5/ANDROID/Default/2023/12/365169814/XP/RU/AW/204137165/product-jpeg-500x500.jpg"
+  },
+  {
+    "id": 6,
+    "name": "White Regular Fit Jeans",
+    "category": "jeans",
+    "color": "White",
+    "price": 723.57,
+    "image": "https://static.aceomni.cmsaceturtle.com/prod/product-image/aceomni/Wrangler/Monobrand/WMJN005907/WMJN005907_1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Blue Regular Fit Jeans",
+    "category": "jeans",
+    "color": "Blue",
+    "price": 1516.96,
+    "image": "https://tigc.in/cdn/shop/files/compress_0421-cpdnm-azure__1.jpg?v=1720758011"
+  },
+  {
+    "id": 8,
+    "name": "Blue Regular Fit Jeans",
+    "category": "jeans",
+    "color": "Blue",
+    "price": 2296.22,
+    "image": "https://tigc.in/cdn/shop/files/compress_0421-cpdnm-azure__1.jpg?v=1720758011"
+  },
+  {
+    "id": 9,
+    "name": "Grey Tapered Fit Jeans",
+    "category": "jeans",
+    "color": "Grey",
+    "price": 1809.99,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHWMbhQewJp4Rd5GEr0Z4A1yhwsDSY740Q6Q&s"
+  },
+  {
+    "id": 10,
+    "name": "Blue Tapered Fit Jeans",
+    "category": "jeans",
+    "color": "Blue",
+    "price": 1453.09,
+    "image": "https://media-us.landmarkshops.in/cdn-cgi/image/h=730,w=540,q=85,fit=cover/lifestyle/1000013827362-Blue-DarkBlue-1000013827362_04-2100.jpg"
+  },
+ 
+  {
+    "id": 12,
+    "name": "Maroon Tapered Fit Jeans",
+    "category": "jeans",
+    "color": "Maroon",
+    "price": 2102.61,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr8P4jVh_qpWRsWnatuH9dRX0KvpUOlewh2Q&s"
+  },
+  {
+    "id": 13,
+    "name": "Yellow Tapered Fit Jeans",
+    "category": "jeans",
+    "color": "Yellow",
+    "price": 1207.7,
+    "image": "https://assets.ajio.com/medias/sys_master/root/20231027/FHlW/653bd18cddf77915195ee2cd/-473Wx593H-469528241-yellow-MODEL.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Black Check Shirt",
+    "category": "shirts",
+    "color": "Black",
+    "price": 1345.6,
+    "image": "https://thehouseofrare.com/cdn/shop/products/IMG_0142_dba01933-c008-4484-997c-6c78eaa19a19_765x.jpg?v=1739189625"
+  },
+  {
+    "id": 15,
+    "name": "White Check Shirt",
+    "category": "shirts",
+    "color": "White",
+    "price": 2429.16,
+    "image": "https://thehouseofrare.com/cdn/shop/files/LOME-WHITE1436.jpg?v=1739168364"
+  },
+  
+  {
+    "id": 18,
+    "name": "Green Plain Shirt",
+    "category": "shirts",
+    "color": "Green",
+    "price": 2265.31,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_bDLRtNW2cWYdR87Pgzfi8f7FfNYh1HgBZQ&s"
+  },
+  {
+    "id": 21,
+    "name": "Brown Denim Shirt",
+    "category": "shirts",
+    "color": "Brown",
+    "price": 1880.09,
+    "image": "https://img.tatacliq.com/images/i18//437Wx649H/MP000000022841379_437Wx649H_202407062154281.jpeg"
+  },
+  {
+    "id": 22,
+    "name": "White Denim Shirt",
+    "category": "shirts",
+    "color": "White",
+    "price": 2192.49,
+    "image": "https://cdn.shopify.com/s/files/1/0557/0612/4373/products/673102a63960c3eccb68e48fd9739bf4.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Blue Denim Shirt",
+    "category": "shirts",
+    "color": "Blue",
+    "price": 1867.36,
+    "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/2284633/2018/2/19/11519031607868-Roadster-Men-Shirts-5971519031607655-1.jpg"
+  },
+  
+  
+  {
+    "id": 27,
+    "name": "Green Graphic T-Shirt",
+    "category": "tshirts",
+    "color": "Green",
+    "price": 890.69,
+    "image": "https://assets.ajio.com/medias/sys_master/root/20220907/zowJ/63179fdcaeb269dbb374f920/-473Wx593H-441146606-green-MODEL.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Maroon Graphic T-Shirt",
+    "category": "tshirts",
+    "color": "Maroon",
+    "price": 926.04,
+    "image": "https://bongmade.com/cdn/shop/products/Magojastra_BM_Maroon_M.jpg?v=1682781476"
+  },
+  {
+    "id": 29,
+    "name": "Blue Plain T-Shirt",
+    "category": "tshirts",
+    "color": "Blue",
+    "price": 1026.86,
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/t-shirt/f/2/r/s-plain-tshirt-men-perfect-production-original-imagqyh2ahgf2gus.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 30,
+    "name": "White Plain T-Shirt",
+    "category": "tshirts",
+    "color": "White",
+    "price": 1116.4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn4ORnoy4H7mvmEtBAoeKXSe8efef2olgehQ&s"
+  },
+  
+ 
+ 
+  {
+    "id": 34,
+    "name": "Red Striped T-Shirt",
+    "category": "tshirts",
+    "color": "Red",
+    "price": 2765.35,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIXCjIYY21L914oEAO5vZIrRn56US1daSuFw&s"
+  },
+ 
+  {
+    "id": 36,
+    "name": "Maroon Slim Fit Formal Shirt",
+    "category": "formal shirts",
+    "color": "Maroon",
+    "price": 2928.11,
+    "image": "https://imagescdn.peterengland.com/img/app/product/6/660421-6742539.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Black Slim Fit Formal Shirt",
+    "category": "formal shirts",
+    "color": "Black",
+    "price": 2047.33,
+    "image": "https://images.bestsellerclothing.in/data/selected/09-Aug-2023/213334601_g6.jpg?width=1080&height=1355&mode=fill&fill=blur&format=auto"
+  }, 
+  {
+    "id": 40,
+    "name": "Blue Regular Fit Formal Shirt",
+    "category": "formal shirts",
+    "color": "Blue",
+    "price": 1362.02,
+    "image": "https://www.jiomart.com/images/product/original/rvye5cadhs/getchi-light-blue-lusture-venture-plain-shiny-solid-full-sleeves-regular-fit-formal-shirts-product-images-rvye5cadhs-0-202304010210.jpg?im=Resize=(1000,1000)"
+  },
+  {
+    "id": 41,
+    "name": "Red Regular Fit Formal Shirt",
+    "category": "formal shirts",
+    "color": "Red",
+    "price": 2341.83,
+    "image": "https://imagescdn.louisphilippe.com/img/app/product/8/886223-10666705.jpg?auto=format&w=390"
+  },
+  {
+    "id": 43,
+    "name": "Black Cotton Joggers",
+    "category": "joggers",
+    "color": "Black",
+    "price": 1568.25,
+    "image": "https://godevil.in/cdn/shop/products/devils-swag-printed-black-joggers-for-men-792612.jpg?v=1695317872"
+  },
+  {
+    "id": 44,
+    "name": "Grey Cotton Joggers",
+    "category": "joggers",
+    "color": "Grey",
+    "price": 2364.44,
+    "image": "https://www.urbanofashion.com/cdn/shop/files/hpsjogger-wgrey-2_56ace31f-c807-41b5-a244-9c07604cc1e2.jpg?v=1723292457"
+  },
+
+  {
+    "id": 46,
+    "name": "Blue Track Joggers",
+    "category": "joggers",
+    "color": "Blue",
+    "price": 2778.92,
+    "image": "https://images.bewakoof.com/original/men-s-blue-oversized-joggers-604200-1722845103-1.jpg"
+  },
+ 
+  {
+    "id": 48,
+    "name": "Maroon Track Joggers",
+    "category": "joggers",
+    "color": "Maroon",
+    "price": 1999.25,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAN41k7a0R7xlzJmU563y48pCGNE-EJUsaow&s"
+  },
+  
+  {
+    "id": 50,
+    "name": "White Denim Shorts",
+    "category": "shorts",
+    "color": "White",
+    "price": 1827.58,
+    "image": "https://campussutra.com/cdn/shop/products/White-Ripped-Hem-Denim-Shorts-4.webp?v=1699024017&width=1080"
+  },
+  {
+    "id": 51,
+    "name": "Blue Denim Shorts",
+    "category": "shorts",
+    "color": "Blue",
+    "price": 1778.33,
+    "image": "https://m.media-amazon.com/images/I/81erZXu+h9L.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Grey Denim Shorts",
+    "category": "shorts",
+    "color": "Grey",
+    "price": 713.04,
+    "image": "https://www.reccy.in/cdn/shop/files/01feb2024aldin00524_1.jpg?v=1711978728&width=1445"
+  },
+  {
+    "id": 53,
+    "name": "Blue Chino Shorts",
+    "category": "shorts",
+    "color": "Blue",
+    "price": 688.77,
+    "image": "https://imagescdn.peterengland.com/img/app/product/7/721340-14585635.jpg?auto=format&w=390"
+  }, 
+  {
+    "id": 60,
+    "name": "Black Bomber Jacket",
+    "category": "jackets",
+    "color": "Black",
+    "price": 2545.26,
+    "image": "https://happygentleman.com/wp-content/uploads/2021/08/lamb-leather-leather-black-bomber-jacket-b203-happy-gentleman-1.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Grey Bomber Jacket",
+    "category": "jackets",
+    "color": "Grey",
+    "price": 1310.57,
+    "image": "https://media.boohoo.com/i/boohoo/bmm02800_grey_xl/male-grey-4-way-stretch-smart-bomber/?w=900&qlt=default&fmt.jp2.qlt=70&fmt=auto&sm=fit"
+  },
+ 
+  {
+    "id": 63,
+    "name": "Black Denim Jacket",
+    "category": "jackets",
+    "color": "Black",
+    "price": 2579.47,
+    "image": "https://images.meesho.com/images/products/225060934/g8rff_512.webp"
+  },
+  {
+    "id": 64,
+    "name": "Blue Denim Jacket",
+    "category": "jackets",
+    "color": "Blue",
+    "price": 2652.91,
+    "image": "https://www.beyoung.in/api/cache/catalog/products/new_winter_wear_5_10_2022/dark_blue_denim_jacket_for_men_base_02_12_2023_700x933.jpg"
+  },
+ 
+  {
+    "id": 66,
+    "name": "Maroon Puffer Jacket",
+    "category": "jackets",
+    "color": "Maroon",
+    "price": 2219.86,
+    "image": "https://cdn.shopclues.com/images1/thumbnails/117912/320/320/153597162-117912836-1734329873.jpg"
+  },
+  
+  {
+    "id": 68,
+    "name": "Green Sneakers",
+    "category": "shoes",
+    "color": "Green",
+    "price": 2900.46,
+    "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/g/q/n/-original-imah4zmbguuyf7by.jpeg?q=90&crop=false"
+  },
+  {
+    "id": 69,
+    "name": "White Sneakers",
+    "category": "shoes",
+    "color": "White",
+    "price": 2856.47,
+    "image": "https://uspoloassn.in/cdn/shop/files/1_dcb5dbed-b5c4-48a6-97b7-07d8310be883_500x.jpg?v=1740562496"
+  },
+  {
+    "id": 72,
+    "name": "Brown Loafers",
+    "category": "shoes",
+    "color": "Brown",
+    "price": 1447.29,
+    "image": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/28245516/2024/3/13/2c113255-ca68-4806-8f13-f1a51148db0e1710339135369RedTapeFormalLoafersforMenRealLeatherShoesWithLow-cutPattern1.jpg"
+  },
+ 
+  {
+    "id": 77,
+    "name": "Blue Formal Shoes",
+    "category": "shoes",
+    "color": "Blue",
+    "price": 2401.83,
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/12/367496234/LG/ZB/JJ/153272128/lace-up-men-formal-shoes.png"
+  },
+  {
+    "id": 78,
+    "name": "Brown Formal Shoes",
+    "category": "shoes",
+    "color": "Brown",
+    "price": 680.21,
+    "image": "https://assets.myntassets.com/w_412,q_60,dpr_2,fl_progressive/assets/images/1221307/2021/10/26/768c670e-d414-47c5-8638-a6725b9fadc31635236637362-Sir-Corbett-Men-Tan-Brown-Formal-Shoes-3261635236637289-7.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Black Formal Shoes",
+    "category": "shoes",
+    "color": "Black",
+    "price": 2611.0,
+    "image": "https://mnjshoes.com/wp-content/uploads/2019/07/SAM08-BLK-Black-Men-Shoes-5.jpg"
+  }
+  
+]
