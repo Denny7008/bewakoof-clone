@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './components/Navbar';
-import Footer from './components/footer';
+import Navbar from './components/Navbar.jsx';
+import Footer from './components/footer.jsx';
 import MenSectionPage from './pages/Menspage.jsx'; // ← Create this page
 import Home from './pages/Homepage'; // ← Create a Home.jsx for main content
 
